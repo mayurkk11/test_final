@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\Page_object_model\POMJAVAExample-master\.metadata\.plugins\org.eclipse.jdt.core
